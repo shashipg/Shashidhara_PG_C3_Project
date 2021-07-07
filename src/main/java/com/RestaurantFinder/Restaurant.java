@@ -90,4 +90,4 @@ public class Restaurant {
         }
         return totalValue;
     }
-}
+} /* class Restaurant */
